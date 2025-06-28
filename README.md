@@ -1,4 +1,4 @@
-                                                                                       ☄️ Asteroid Alerting Service
+☄️ Asteroid Alerting Service
 Description
 The Asteroid Alerting Service is a microservices-based application that monitors near-earth asteroids and alerts users to potentially hazardous objects. It fetches data from NASA's Near Earth Object (NEO) API, filters for asteroids that could be a threat, and sends email notifications to a list of registered users.
 
